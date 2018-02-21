@@ -21,9 +21,15 @@
   width: 440px;
   height: 290px;
 }
-h1.name {
-  font-size: 48pt;
+h1.tagline, h1.name {
+  width: 497px;
+  margin: 0;
+  display: inline-block;
+  font-size: 30px;
   font-family: "Coming Soon", "Comic Sans MS", sans-serif;
+}
+h1.tagline {
+  text-align: right;
 }
 .section h1 {
   background: linear-gradient(#ffffff, #aaaaaa);
