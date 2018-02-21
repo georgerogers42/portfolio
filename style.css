@@ -1,0 +1,43 @@
+* {
+  vertical-align: top;
+  font-family: sans-serif;
+}
+#master {
+  margin: auto;
+  width: 1000px;
+}
+
+#body {
+  padding: 25px;
+  background: radial-gradient(#ff0000, #0000ff);
+}
+.bordered {
+  border: 5px gray solid;
+}
+
+#my_photo img {
+  width: 440px;
+  height: 290px;
+}
+h1.name {
+  font-size: 48pt;
+  font-family: "Coming Soon", "Comic Sans MS", sans-serif;
+}
+.section h1 {
+  background: linear-gradient(#ffffff, #aaaaaa);
+  font-size: 24pt;
+}
+.section {
+  margin: 10px;
+  background: linear-gradient(#ffffff, #cccccc);
+}
+.two-col {
+  height: 290px;
+  display: inline-block;
+  width: 440px;
+}
+.three-col {
+  display: inline-block;
+  width: 280px;
+  height: 500px;
+}
