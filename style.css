@@ -27,6 +27,15 @@ h1.name {
   background: linear-gradient(#ffffff, #aaaaaa);
   font-size: 24pt;
 }
+.section h2 {
+  background: linear-gradient(#ffffff, #aaaaaa);
+  font-size: 20pt;
+}
+.section img {
+  height: 50px;
+  width: auto;
+}
+
 .section {
   margin: 10px;
   background: linear-gradient(#ffffff, #cccccc);
