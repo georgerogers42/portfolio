@@ -31,7 +31,7 @@ h1.tagline, h1.name {
 h1.tagline {
   text-align: right;
 }
-div.section {
+.section {
   background: radial-gradient(#fff, #999);
 }
 .section h1 {
@@ -46,10 +46,6 @@ div.section {
 .info > img {
   width: 100%;
   height: auto;
-}
-.section {
-  margin: 10px;
-  background: linear-gradient(#fff, #ccc);
 }
 .two-col {
   height: 290px;
