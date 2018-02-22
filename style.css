@@ -55,10 +55,10 @@ h1.tagline {
   display: inline-block;
   width: 432px;
 }
-div.three-col {
+.three-col {
   display: inline-block;
   width: 280px;
-  margin: 10px;
+  margin: 9px;
   margin-left: 0;
   height: 500px;
 }
