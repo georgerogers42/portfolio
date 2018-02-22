@@ -18,14 +18,15 @@
 }
 
 #my_photo img {
-  width: 440px;
-  height: 290px;
+  width: 100%;
+  height: 100%;
 }
 h1.tagline, h1.name {
-  width: 497px;
+  width: 475px;
+  padding: 0;
   margin: 0;
   display: inline-block;
-  font-size: 30px;
+  font-size: 25px;
   font-family: "Coming Soon", "Comic Sans MS", sans-serif;
 }
 h1.tagline {
@@ -50,7 +51,7 @@ h1.tagline {
 .two-col {
   margin: 10px;
   margin-left: 0;
-  height: 290px;
+  height: 284px;
   display: inline-block;
   width: 432px;
 }
