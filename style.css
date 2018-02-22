@@ -31,22 +31,25 @@ h1.tagline, h1.name {
 h1.tagline {
   text-align: right;
 }
+div.section {
+  background: radial-gradient(#fff, #999);
+}
 .section h1 {
-  background: linear-gradient(#ffffff, #aaaaaa);
+  background: linear-gradient(#fff, #aaa);
   font-size: 24pt;
 }
 .section h2 {
-  background: linear-gradient(#ffffff, #aaaaaa);
+  background: linear-gradient(#fff, #aaa);
   font-size: 20pt;
 }
-.section img {
-  height: 50px;
-  width: auto;
-}
 
+.info > img {
+  width: 100%;
+  height: auto;
+}
 .section {
   margin: 10px;
-  background: linear-gradient(#ffffff, #cccccc);
+  background: linear-gradient(#fff, #ccc);
 }
 .two-col {
   height: 290px;
@@ -60,6 +63,10 @@ h1.tagline {
 }
 .info {
   height: 250px;
+}
+.tech > img {
+  height: 50px;
+  width: auto;
 }
 .tech {
   height: 160px;
