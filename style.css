@@ -6,7 +6,7 @@
 }
 #master {
   margin: auto;
-  width: 1000px;
+  width: 960px;
 }
 
 #body {
@@ -48,13 +48,17 @@ h1.tagline {
   height: auto;
 }
 .two-col {
+  margin: 10px;
+  margin-left: 0;
   height: 290px;
   display: inline-block;
-  width: 440px;
+  width: 432px;
 }
-.three-col {
+div.three-col {
   display: inline-block;
   width: 280px;
+  margin: 10px;
+  margin-left: 0;
   height: 500px;
 }
 .info {
